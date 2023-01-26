@@ -1,4 +1,4 @@
-<h1>Hi, I'm Monica, an <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
+<h1>Hi, I'm Monica, an aspiring <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
