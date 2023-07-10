@@ -7,7 +7,7 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>🖥️ IT Support Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
