@@ -1,6 +1,6 @@
 <h1>Hi, I'm Monica, an <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>🖥️ Networking Projects:</h2>
 
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
