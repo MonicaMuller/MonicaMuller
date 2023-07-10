@@ -1,6 +1,13 @@
 <h1>Hi, I'm Monica, an <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Networking Projects:</h2>
+
+- <b>Wireshark</b>
+  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
+- <b>Virtual Private Networks (VPNs)</b>
+  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
+
+<h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
@@ -8,11 +15,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Example](https://github.com/MonicaMuller/ticket-lifecycle)
-- <b>Wireshark</b>
-  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
-- <b>Virtual Private Networks (VPNs)</b>
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
-
 
 <h2>📄 Certifications:</h2>
 
