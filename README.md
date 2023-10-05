@@ -1,4 +1,4 @@
-<h1>Hi, I'm Monica, a Cloud Computing student and future <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
+<h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">a Cloud Computing student and future IT Professional</a>☺</h1>
 
 <h2>☁️ AWS:</h2>
 
