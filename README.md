@@ -1,13 +1,17 @@
-<h1>Hi, I'm Monica, an <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
+<h1>Hi, I'm Monica, a Cloud Computing student and future <a href="https://linkedin.com/in/monica-muller">IT Professional</a>☺</h1>
 
-<h2>🌐 Networking Projects:</h2>
+<h2>☁️ AWS:</h2>
+
+- <b>EC2 (In progress)</b>
+
+<h2>🌐 Networking:</h2>
 
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
 
-<h2>🖥️ IT Support Projects:</h2>
+<h2>🖥️ IT Support:</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
