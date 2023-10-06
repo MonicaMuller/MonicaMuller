@@ -1,8 +1,10 @@
 <h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">a Cloud Computing student and future IT Professional</a>☺</h1>
 
-<h2>☁️ AWS</h2>
+<h2>☁️ Cloud Computing</h2>
 
-- <b>EC2 (In progress)</b>
+- <b>AWS (In progress)</b>
+- <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 
 <h2>🌐 Networking</h2>
 
@@ -13,8 +15,6 @@
 
 <h2>🖥️ IT Support</h2>
 
-- <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
