@@ -3,7 +3,7 @@
 <h2>☁️ Cloud Computing</h2>
 
 - <b>AWS (In progress)</b>
-  - [Launching an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
+  - [Launching and Connecting to an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 
