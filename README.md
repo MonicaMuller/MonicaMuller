@@ -17,7 +17,7 @@
 <h2>🖥️ IT Support</h2>
 
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MonicaMuller/configure-ad)
+  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Example](https://github.com/MonicaMuller/ticket-lifecycle)
 
