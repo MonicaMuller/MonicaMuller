@@ -20,6 +20,10 @@
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Example](https://github.com/MonicaMuller/ticket-lifecycle)
+ 
+<h2>🐚 PowerShell (TBD)</h2>
+<h2>🐍 Python (TBD)</h2>
+<h2>🐧 Linux/Bash (TBD)</h2>
 
 <h2>📄 Certifications</h2>
 
