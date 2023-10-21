@@ -6,6 +6,9 @@
   - [Launching and Connecting to an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
 
 
+<h2>🐍 Python (TBD)</h2>
+
+
 <h2>🖥️ IT Support, Networking, and Azure</h2>
 
 - <b>Active Directory</b>
@@ -18,8 +21,7 @@
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
- 
-<h2>🐍 Python (TBD)</h2>
+
 
 <h2>📄 Certifications</h2>
 
