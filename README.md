@@ -1,29 +1,25 @@
 <h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">a Cloud Computing student and future IT Professional</a>☺</h1>
 
-<h2>☁️ Cloud Computing</h2>
+<h2>☁️ AWS</h2>
 
-- <b>AWS</b>
+- <b>EC2</b>
   - [Launching and Connecting to an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
-- <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 
-<h2>🌐 Networking</h2>
 
-- <b>Wireshark</b>
-  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
-- <b>Virtual Private Networks (VPNs)</b>
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
-
-<h2>🖥️ IT Support</h2>
+<h2>🖥️ IT Support, Networking, and Azure</h2>
 
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Example](https://github.com/MonicaMuller/ticket-lifecycle)
+- <b>Wireshark</b>
+  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
+- <b>Virtual Private Networks (VPNs)</b>
+  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
+- <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
  
-<h2>🐚 PowerShell (TBD)</h2>
 <h2>🐍 Python (TBD)</h2>
-<h2>🐧 Linux/Bash (TBD)</h2>
 
 <h2>📄 Certifications</h2>
 
