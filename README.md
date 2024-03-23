@@ -6,7 +6,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Example](https://github.com/MonicaMuller/ticket-lifecycle)
+  - [osTicket - Ticket Lifecycle: Intake Through Resolution](https://github.com/MonicaMuller/ticket-lifecycle)
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
