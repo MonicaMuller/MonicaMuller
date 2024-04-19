@@ -18,6 +18,7 @@ Along with my portfolio and certifications, I completed an Information Technolog
 Because of this, I know I’ll ramp up quickly and make meaningful contributions to your team!
 </b>
 <br>
+<br>
 
 <h2>🖥️ IT Support Projects</h2>
 
