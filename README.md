@@ -43,7 +43,6 @@ Because of this, I know I’ll ramp up quickly and make meaningful contributions
                        
 - <b>PowerShell</b>
 <br>
-<br>
 
 <h2>📄 Certifications</h2>
 
