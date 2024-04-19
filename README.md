@@ -36,6 +36,12 @@ Because of this, I know I’ll ramp up quickly and make meaningful contributions
 
 <h2>📚 Notes</h2>
 <b>Coming soon!</b>
+
+- <b>Microsoft 365 Administration</b>
+
+- <b>Active Directory</b>
+                       
+- <b>PowerShell</b>
 <br>
 <br>
 <br>
