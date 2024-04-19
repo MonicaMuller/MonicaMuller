@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 About Me</h2>
 
-<b> 
+<h3>
 Hi, my name is Monica Muller!
 <br>
 <br>
@@ -16,8 +16,7 @@ Along with my portfolio and certifications, I completed an Information Technolog
 <br>
 <br>
 Because of this, I know I’ll ramp up quickly and make meaningful contributions to your team!
-</b>
-<br>
+</h3>
 <br>
 
 <h2>🖥️ IT Support Projects</h2>
