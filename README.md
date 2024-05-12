@@ -8,7 +8,7 @@ Hi, my name is Monica Muller!
 I’m actively pursuing an IT Support role because I enjoy solving problems, helping others, and always having more to learn. Shortly after graduating with my bachelor’s degree, I realized that my initial career choice was not the right fit for me. After speaking with others and looking into various industries, I fell in love with Information Technology because it aligns perfectly with my strengths and passions, and it offers endless opportunities for growth.
 <br>
 <br>
-Through my current and previous roles, I gained customer service experience by assisting clients both over the phone and in person. Once I became determined to work in IT, I built a portfolio on GitHub to share new technologies that I’ve learned. I have also earned the CompTIA A+, Network+, and Security+ certifications to validate foundational technical knowledge and display my commitment to continuous learning.
+Through my current and previous roles, I have gained customer service experience by assisting clients both over the phone and in person. Once I became determined to work in IT, I built a portfolio on GitHub to share new technologies that I’ve learned. I have also earned the CompTIA A+, Network+, and Security+ certifications to validate foundational technical knowledge and display my commitment to continuous learning.
 <br>
 <br>
 Along with my portfolio and certifications, I completed an Information Technology Support internship, which allowed me to provide technical support to others and gain hands-on experience with technologies such as Active Directory, a help desk ticketing system, and Microsoft Azure.
