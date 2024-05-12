@@ -33,11 +33,11 @@ Along with my portfolio and certifications, I completed an Information Technolog
 <h2>📚 Notes</h2>
 <b>Coming soon!</b>
 
-- <b>Microsoft 365 Administration</b>
+- Active Directory
 
-- <b>Active Directory</b>
+- Microsoft 365 Administration
                        
-- <b>PowerShell</b>
+- PowerShell
 <br>
 
 <h2>📄 Certifications</h2>
