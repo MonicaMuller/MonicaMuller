@@ -31,9 +31,10 @@ Along with my portfolio and certifications, I completed an Information Technolog
 <br>
 
 <h2>📚 Notes</h2>
-<b>Coming soon!</b>
 
 - [Active Directory (in progress)](https://github.com/MonicaMuller/active-directory-notes)
+
+<b>Coming soon!</b>
 
 - Microsoft 365 Administration
                        
