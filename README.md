@@ -2,7 +2,6 @@
 
 <h2>👩‍💻 About Me</h2>
 
-<h3>
 Hi, my name is Monica Muller!
 <br>
 <br>
@@ -13,7 +12,7 @@ Through my current and previous roles, I gained customer service experience by a
 <br>
 <br>
 Along with my portfolio and certifications, I completed an Information Technology Support Internship, which allowed me to provide technical support to others and gain hands-on experience with technologies such as Active Directory, a help desk ticketing system, and Microsoft Azure.
-</h3>
+<br>
 <br>
 
 <h2>🖥️ IT Support Projects</h2>
