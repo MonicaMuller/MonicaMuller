@@ -47,6 +47,6 @@ Along with my portfolio and certifications, I completed an Information Technolog
 
 <h2>🤳Connect with me</h2>
 
-[<img align="left" alt="Monica | LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Monica | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/monica-muller
