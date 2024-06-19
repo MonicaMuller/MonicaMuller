@@ -23,10 +23,6 @@ Along with my portfolio and certifications, I completed an Information Technolog
   - [osTicket - Ticket Lifecycle: Intake Through Resolution](https://github.com/MonicaMuller/ticket-lifecycle)
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
-- <b>Virtual Private Networks (VPNs)</b>
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
-- <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 <br>
 
 <h2>📚 Notes</h2>
