@@ -25,15 +25,6 @@ Along with my portfolio and certifications, I completed an Information Technolog
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
 <br>
 
-<h2>📚 Notes</h2>
-
-- [Microsoft Active Directory (in progress)](https://github.com/MonicaMuller/active-directory-notes)
-
-<b>Coming soon!</b>
-- Microsoft 365 Administration                       
-- PowerShell
-<br>
-
 <h2>📄 Certifications</h2>
 
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/cbe01186-6522-4707-8c79-97e324b8ba76/public_url)
