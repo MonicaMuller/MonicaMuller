@@ -11,7 +11,7 @@ I’m actively pursuing an IT Support role because I enjoy solving problems, hel
 Through my current and previous roles, I have gained customer service experience by assisting clients both over the phone and in person. Once I became determined to work in IT, I built a portfolio on GitHub to share new technologies that I’ve learned. I have also earned the CompTIA A+, Network+, and Security+ certifications to validate foundational technical knowledge and display my commitment to continuous learning.
 <br>
 <br>
-Along with my portfolio and certifications, I completed an Information Technology Support internship, which allowed me to provide technical support to others and gain hands-on experience with technologies such as Active Directory, a help desk ticketing system, and Microsoft Azure.
+Along with my portfolio and certifications, I have experience as an IT Support Analyst, which allows me to provide technical support to others and gain hands-on experience with technologies such as Active Directory, a help desk ticketing system, and Microsoft Azure.
 <br>
 <br>
 
