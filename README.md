@@ -19,8 +19,8 @@ Along with my portfolio and certifications, I have experience as an IT Support A
 
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MonicaMuller/configure-ad)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket - Ticket Lifecycle: Intake Through Resolution](https://github.com/MonicaMuller/ticket-lifecycle)
+- <b>Microsoft Azure Virtual Machine</b>
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
 <br>
