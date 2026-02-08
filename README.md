@@ -1,4 +1,4 @@
-<h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">your next Networking hire!</a>☺</h1>
+<h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">your next Networking hire!</a></h1>
 
 <h2>👩‍💻 About Me</h2>
 
