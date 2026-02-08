@@ -5,13 +5,16 @@
 Hi, my name is Monica Muller!
 <br>
 <br>
-I enjoy solving problems, helping others, and always having more to learn. Shortly after graduating with my bachelor’s degree, I realized that my initial career choice was not the right fit for me. After speaking with others and looking into various industries, I fell in love with Information Technology because it aligns perfectly with my strengths and passions, and it offers endless opportunities for growth.
+I enjoy solving problems, helping others, and always having more to learn. Shortly after graduating with my bachelor’s degree, I realized that my initial career choice was not the right fit for me. After speaking with others and exploring different industries, I found my way into Information Technology, where I quickly developed a strong interest in networking due to its blend of problem-solving, structure, and real-world impact.
 <br>
 <br>
-Through my current and previous roles, I have gained customer service experience by assisting clients both over the phone, online, and in person. Once I became determined to work in IT, I built a portfolio on GitHub to share new technologies that I’ve learned. I have also earned the CompTIA A+, Network+, and Security+ certifications to validate foundational technical knowledge and display my commitment to continuous learning.
+Through my current role, I have gained hands-on technical experience while supporting users across cloud-based platforms. In my current role as a Client Support Specialist, I regularly work with networking-related concepts such as DNS configuration (including creating and validating CNAME records for email domain authentication), troubleshooting connectivity, latency, and performance issues, and managing user access controls and permissions from a security perspective.
 <br>
 <br>
-Along with my portfolio and certifications, I have experience as a Client Support Specialist, which allows me to provide technical support to others.
+As part of my career development, I earned the CompTIA A+, Network+, and Security+ certifications and am currently preparing for the Cisco Certified Network Associate (CCNA). Alongside my studies, I maintain a GitHub portfolio where I document networking projects to reinforce what I’m learning and demonstrate my growing networking skill set.
+<br>
+<br>
+I’m excited to continue building my experience in networking and to take the next step into a role where I can contribute to and learn from real-world network environments.
 <br>
 <br>
 
