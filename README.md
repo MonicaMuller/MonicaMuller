@@ -1,4 +1,4 @@
-<h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">your next IT hire!</a>☺</h1>
+<h1>Hi, I'm Monica, <a href="https://linkedin.com/in/monica-muller">your next Networking hire!</a>☺</h1>
 
 <h2>👩‍💻 About Me</h2>
 
@@ -15,14 +15,14 @@ Along with my portfolio and certifications, I have experience as a Client Suppor
 <br>
 <br>
 
-<h2>🖥️ IT Support Projects</h2>
+<h2>🖥️ Networking Projects</h2>
 
-- <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MonicaMuller/configure-ad)
-- <b>Microsoft Azure Virtual Machine</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
+- <b>VPN</b>
+  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
+- <b>Upcoming Project - Enterprise Network Configuration</b>
+  - Comprehensive CCNA-level Packet Tracer project implementing a multi-site enterprise network with VLANs, inter-VLAN routing, dynamic routing, DHCP, NAT/PAT, ACLs, and security features to achieve full connectivity and policy enforcement.
 <br>
 
 <h2>📄 Certifications</h2>
