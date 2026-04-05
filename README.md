@@ -18,7 +18,7 @@ I’m excited to continue building my experience in technical support and to con
 <br>
 <br>
 
-<h2>🖥️ Technology Projects</h2>
+<h2>🖥️ Projects</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
