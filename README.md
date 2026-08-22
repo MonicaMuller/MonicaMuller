@@ -25,8 +25,7 @@ I’m excited to continue building my experience in technical support and to con
 
 <h2>☁️ Cloud</h2>
 
-- <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
+- <b>[Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)</b>
 - <b>AWS EC2</b>
   - [Launching and Connecting to an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
 <br>
