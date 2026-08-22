@@ -20,7 +20,7 @@ I’m excited to continue building my experience in technical support and to con
 
 <h2>🐧 Linux</h2>
 
-- [Navigating the Terminal](https://github.com/MonicaMuller/ec2-instance)
+- [Navigating the Terminal](https://github.com/MonicaMuller/linux_navigation_exercise)
 <br>
 
 <h2>☁️ Cloud</h2>
