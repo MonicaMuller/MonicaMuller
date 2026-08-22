@@ -20,22 +20,19 @@ I’m excited to continue building my experience in technical support and to con
 
 <h2>🐧 Linux</h2>
 
-- <b>Coming Soon</b>
+- [Navigating the Terminal](https://github.com/MonicaMuller/ec2-instance)
 <br>
 
 <h2>☁️ Cloud</h2>
 
-- <b>[Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)</b>
-- <b>AWS EC2</b>
-  - [Launching and Connecting to an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
+- [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/MonicaMuller/create-azure-vm)
+- [Launching and Connecting to an EC2 Instance in AWS](https://github.com/MonicaMuller/ec2-instance)
 <br>
 
 <h2>🖥️ Networking</h2>
 
-- <b>Wireshark</b>
-  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
-- <b>VPN</b>
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
+- [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
+- [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
 <br>
 
 <h2>📄 Certifications</h2>
