@@ -20,7 +20,7 @@ I’m excited to continue building my experience in technical support and to con
 
 <h2>🐧 Linux</h2>
 
-- Making Files and Folders (Coming Soon)
+- [Making Files and Folders](https://github.com/MonicaMuller/linux_making_files_and_folders_exercise)
 - [Navigating the Terminal](https://github.com/MonicaMuller/linux_navigation_exercise)
 <br>
 
